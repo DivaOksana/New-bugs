@@ -1,0 +1,14 @@
+Severity - minor
+Priority - low
+
+Summary - The hint of the "Google+", "Instagram" and "YouTube" buttons isn't displayed on the Main page
+
+Description - The hint of the "Google+", "Instagram" and "YouTube" buttons isn't displayed in the footer
+
+Steps - 1. Open the site https://www.dolce-gusto.ua/
+        2. Go to the footer on the Main page
+        3. Pay attention to the non-availability of the hint of the "Google+", "Instagram" and "YouTube" buttons
+
+Actual result: The hint of the "Google+", "Instagram" and "YouTube" buttons isn't displayed in the footer
+
+Expected result: The hint of the "Google+", "Instagram" and "YouTube" buttons is showed on the Main page
